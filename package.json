@@ -1,0 +1,13 @@
+{
+  "name": "testAppAWSLambda",
+  "version": "0.1.0",
+  "dependencies": {
+    "node-lambda": "latest",
+	"soap":"latest",
+	"json2xml":"latest"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "private": true
+}
